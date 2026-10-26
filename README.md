@@ -2,7 +2,7 @@
 
 Portfolio d'alternance BUT R&T (parcours Cybersécurité), Orange Business — 2025-2028.
 
-https://s5m87.github.io/Portfolio/
+https://s5m87.github.io/Portfolio2/
 
 ## 📂 Structure du portfolio
 
